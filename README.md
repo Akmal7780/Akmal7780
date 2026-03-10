@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Akmal
 
-<!--
-**Akmal7780/Akmal7780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building scalable APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- Redis
+- Celery
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### Ecommerce Backend API
+Production-ready E-commerce backend built with Django REST Framework, PostgreSQL, Redis, Celery and Docker.
+
+GitHub:
+https://github.com/Akmal7780/ecommerce-backend-api
+
+## Currently Learning
+- Advanced Django
+- System Design
+- Microservices
